@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/MCDOOMYT/Portfolio",
+    "owner": {
+        "username": "MCDOOMYT",
+        "email": "labibfounder040@gmail.com",
+        "twitter": "@9xLabib78203"
+    },
+    "record": {
+        "CNAME": "https://mcdoomyt.github.io/Portfolio/"
+    }
+} 
